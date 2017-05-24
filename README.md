@@ -4,5 +4,5 @@ In the next repo you can find a few scripts to symbolic calculate the form of th
 
 #### Autores:
 - [Raúl Ramírez](https://github.com/jatib "jatib")
-- [Octavio](https://github.com/ "octavio")
-- [Esli](https://github.com/ "esli")
+- [Octavio García](https://github.com/ "octavio")
+- [Hesli Baltezar](https://github.com/ "esli")
