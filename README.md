@@ -15,15 +15,23 @@ In the next repo you can find a few scripts to symbolic calculate the form of th
 
 #### Comandos para commits
 
+
+Para actualizar:
+```
+git pull
+```
+Para subir
 ```
 git status
 git add TuArchivoAqui
-#git checkout -- ElArchivoDelOtroAqui
 git commit -m "MiCommitAqui"
-git pull
-#git mergetool -t meld (si hay problemas)
 #git commit -m ¨MiMergeAqui¨
 git push
+```
+Para errores en caso de modificar un archivo equivocado, el primero es la forma correcta y va después del git add, y el segundo es en caso de incendio
+```
+#git mergetool -t meld (si hay problemas)
+#git checkout -- ElArchivoDelOtroAqui (para)
 ```
 
 #### Referencias:
